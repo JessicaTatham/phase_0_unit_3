@@ -5,8 +5,8 @@
 
 
 ### My Quiz Results:
-<!-- Include the link to your image (saved in the imgs folder) to display it inline. -->
 
+<img src = "sqlzoo_quiz.jpg"/>
 
 
 
