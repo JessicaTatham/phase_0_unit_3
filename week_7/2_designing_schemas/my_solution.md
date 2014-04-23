@@ -13,7 +13,7 @@
 
 
 ## Release 2: One to One Schema
-<img src = "imgs/One_To_One.jpg"/>
+<img src = "imgs/One_to_One.jpg"/>
 
 
 ## Release 3: Many to Many Schema
