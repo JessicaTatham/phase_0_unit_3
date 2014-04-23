@@ -6,7 +6,7 @@
 
 ### My Quiz Results:
 
-# img 
+<img src = "imgs/sqlzoo_quiz.jpg"/>
 
 
 

@@ -9,21 +9,21 @@
 
 
 ## Release 1: One to Many Schema
-<!-- display your image inline here -->
+<img src = "imgs/One_To_Many.jpg"/>
 
 
 ## Release 2: One to One Schema
-<!-- display your image inline here -->
+<img src = "imgs/One_To_One.jpg"/>
 
 
 ## Release 3: Many to Many Schema
-<!-- display your image inline here -->
+<img src = "imgs/Many_to_many.jpg"/>
 
 
 ## Release 4: Design your own Schema
 Description of what you're modeling: 
 
-<!-- display your one-to-one image inline here -->
-<!-- display your many-to-many image inline here -->
+<img src = "imgs/my_one_to_one.jpg"/>
+<img src = "imgs/my_many_to_many.jpg"/>
 
 ## Release 5: Reflection
