@@ -3,46 +3,80 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+Adds the file contents to the index
+
+git add index.rb
 
 #### branch
-<!-- Your defnition here -->
+Lists, creates, or deletes branches
+
+git branch index
 
 #### checkout
-<!-- Your defnition here -->
+Checkout a branch or paths to the working tree.
+
+git checkout index
 
 #### clone
-<!-- Your defnition here -->
+Clone a repository into a new directory
+
+git clone (location)
 
 #### commit
-<!-- Your defnition here -->
+Record changes to the repository
+
+git commit -m "what you are commiting"
 
 #### fetch
-<!-- Your defnition here -->
+Download objects and refs from another repository
+
+git fetch upstream
 
 #### log
-<!-- Your defnition here -->
+Show commit logs
+
+git log
 
 #### merge
-<!-- Your defnition here -->
+Join two or more develpment histories together
+
+git merge upstream/master git merge index
 
 #### pull
-<!-- Your defnition here -->
+Fetch from and integrate with another repository or a local
+
+git pull
 
 #### push
-<!-- Your defnition here -->
+Update remote refs along with associated objects
+
+git push master
 
 #### reset
-<!-- Your defnition here -->
+Reset current HEAD to the specified state
+
+git reset master
 
 #### rm
-<!-- Your defnition here -->
+Remove files from the working tree and from the index
+
+git rm index.rb
 
 #### status
+Show the working tree status
+
+git status
+
 
 
 ## Release 3: Git Workflow
 
 - Push files to a remote repository
+
 - Fetch changes
+
 - Commit locally
+
+
+## REFLECTION
+This challenge was great with the basics of using git in the command line. I watched the How to Use Git and GitHub video and it walked me step by step through using the add, commit, init, and status commands. I understand what each command does, but I think it will take some practice before I feel confident using the command line to push actual files for DBC through to GitHub. 

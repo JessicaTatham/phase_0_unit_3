@@ -19,14 +19,32 @@ var scores = [ [80, 70, 70, 100],
                [100, 90, 95, 85] ]
 
 
-
-
-
-
 // __________________________________________
 // Write your code below.
 
+var average = function(array) {
+  var sum = 0;
+  for (var i=0; i<array.length; i++) {
+    sum += array[i]; 
+  }
+    
+    return sum/array.length;
+};
 
+var gradebook = {};
+
+for (var i = 0; i<students.length; i++) {
+  gradebook[students[i]] = {
+     testScores: scores[i]};
+};
+
+gradebook.addScore = function(name, score) {
+    gradebook[name].testScores.push(score);
+};
+
+gradebook.getAverage = function(name) {
+   return average(gradebook[name].testScores);
+};
 
 
 
@@ -34,7 +52,7 @@ var scores = [ [80, 70, 70, 100],
 // __________________________________________
 // Refactored Solution
 
-
+// We don't know how to make this code any more concise. :)
 
 
 
@@ -44,7 +62,10 @@ var scores = [ [80, 70, 70, 100],
 // __________________________________________
 // Reflect
 
-
+//This challenge went really smoothly. We had to revisit how to make a variable
+//and object in javascript, but a quick look at w3school and stack overflow and we
+//managed to figure it out. I liked reviewing javascript as I didn't feel very
+//confident in what we learned the first time, so this was very beneficial. 
 
 
 
