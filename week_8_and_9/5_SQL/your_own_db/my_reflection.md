@@ -1,0 +1,3 @@
+## REFLECTION
+
+My biggest problem I ran into with this challenge was coming up with something to make into a database. I'm still not entirely sure that my accounts and email tables hold the correct columns. I also had trouble with when I was trying to add content to the tables, and the SQL code wouldn't go through. I eventually found a few errors in the code and it finally worked. It was extremely satistfying when the code finally passed and everything was added properly to the tables. I found it very easy to join the two tables to get information for each. Other than a few hiccups in the beginning, I thought this challenge was a lot of fun. Like a really tough puzzle that evades you for a while before you finally get it!
