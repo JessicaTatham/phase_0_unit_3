@@ -55,20 +55,6 @@ print_states_representatives
 # (New Jersey, New York, Maine, Florida, and Alaska)
 
 
-##### BONUS #######
-# TODO (bonus) - Stop SQL injection attacks!  Statmaster learned that interpolation of variables in SQL statements leaves some security vulnerabilities.  Use the google to figure out how to protect from this type of attack.
-
-# TODO (bonus)
-
-# Create a listing of all of the Politicians and the number of votes they recieved
-# output should look like:  Sen. John McCain - 7,323 votes (This is an example, yours will not return this value, it should just 
-#    have a similar format)
-# Create a listing of each Politician and the voter that voted for them
-# output should include the senators name, then a long list of voters separated by a comma
-#
-# * you'll need to do some join statements to complete these last queries!
-
-
 # REFLECTION- Include your reflection as a comment below.
 =begin
 # How does the sqlite3 gem work?  What is the variable `$db` holding?  
